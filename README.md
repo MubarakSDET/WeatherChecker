@@ -6,6 +6,10 @@ Developed with "scenario outline" features to get the predicted weather informat
 Setup:
 Simply download, build and execute the results, if required, can change the appid in app.config file.
 
+Language: C#
+IDE: Visual Studio Enterprise 2019
+Freamework: BDD (Specflow)
+
 RequiredReferences:
 nunit.framework
 Newtonsoft.Json
