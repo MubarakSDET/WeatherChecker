@@ -8,7 +8,7 @@ Simply download, build and execute the results, if required, can change the appi
 
 Language: C#
 IDE: Visual Studio Enterprise 2019
-Freamework: BDD (Specflow)
+Framework: BDD (Specflow) with Nunit
 
 RequiredReferences:
 nunit.framework
